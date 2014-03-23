@@ -36,5 +36,5 @@ To run
 * -- body: model (obligatorio), colour, price, summary, images, size, style (sólo permite: Casual, Alternative, Vintage)
 * DELETE /tshirt/:id - elimina una camiseta
     
-<h4> Importante: Arrancar mongoDB en un terminal con el comando ./mongod
+<h4> Importante: Arrancar mongoDB en un terminal.
 
