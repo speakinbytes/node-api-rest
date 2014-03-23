@@ -3,6 +3,14 @@ node-api-rest
 
 RESTful API for CRUD with Node.js, Express, MongoDB and mongoose.js
 
+You need install node.js and MongoDB.
+
+To run
+
+$ npm install
+start mongo server
+$ server.js
+
 
 - Proyect: BackEnd 
 - Author: Pablo E. Ojeda Vasco  
