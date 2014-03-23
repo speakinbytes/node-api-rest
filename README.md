@@ -11,13 +11,6 @@ To run
 * start mongo server
 * $ server.js
 
-
-* Proyect: BackEnd 
-* Author: Pablo E. Ojeda Vasco  
-* Last update: 23 / 03 / 2014
-
-
-
 <h3> Tecnologías 
 <p>
 
