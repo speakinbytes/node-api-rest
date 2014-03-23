@@ -5,6 +5,8 @@ RESTful API for CRUD with Node.js, Express, MongoDB and mongoose.js
 
 You need install node.js and MongoDB.
 
+You can read http://speakinbytes.com/2014/03/api-rest-con-node-js-express-mongodb-y-moongose-js/
+
 To run
 
 * $ npm install
