@@ -7,14 +7,14 @@ You need install node.js and MongoDB.
 
 To run
 
-$ npm install
-start mongo server
-$ server.js
+* $ npm install
+* start mongo server
+* $ server.js
 
 
-- Proyect: BackEnd 
-- Author: Pablo E. Ojeda Vasco  
-- Last update: 23 / 03 / 2014
+* Proyect: BackEnd 
+* Author: Pablo E. Ojeda Vasco  
+* Last update: 23 / 03 / 2014
 
 
 
