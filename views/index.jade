@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  h1= title
+  p Ingresa un producto
+  form(action="/tshirt" method="post")
+    label Modelo
+    input(type="text", name="model")
+    br
+    label Precio
+    input(type="text", name="price")
+    br
+    label Estilo
+    input(type="text", name="style")
+    br
+    label Medida
+    input(type="text", name="size")
+    br
+    label Color
+    input(type="text", name="colour")
+    br
+    label Descripici&oacute;n
+    input(type="text", name="summary")
+    br
+    input(type="submit")
